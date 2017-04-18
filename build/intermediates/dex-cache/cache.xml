@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AndroidProjects\sinch-rtc-sample-video\libs\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e60b87f7f39d11d3cf86c07de72f62ef45c6f50">
+        <dex dex="C:\AndroidProjects\sinch-rtc-sample-video\build\intermediates\transforms\dex\debug\folders\1000\2\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT_e35a3cecc5eb94c774a4f32ed11131da506bee10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidProjects\sinch-rtc-sample-video\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dfd934d84f9d159f2e80f16eb535449a33843de">
+        <dex dex="C:\AndroidProjects\sinch-rtc-sample-video\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0b01776cccbb1ce591914411d2cc7ddeae46317c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidProjects\sinch-rtc-sample-video\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\AndroidProjects\sinch-rtc-sample-video\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f078a995a4cdf8002a4a8bdea1236f14890a0b9f\classes.dex" />
+    </item>
+
+</items>

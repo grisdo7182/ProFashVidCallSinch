@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_normal.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\call_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\small_red_pressed.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\small_red_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\big_red_pressed.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\big_red_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_pressed.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\login_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_pressed.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\call_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_pressed.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\call_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\big_red_pressed.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\big_red_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\small_green_pressed.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\small_green_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\small_red_normal.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\small_red_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\small_red_normal.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\small_red_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\small_green_normal.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\small_green_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_normal.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\login_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\small_red_pressed.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\small_red_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_normal.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\login_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_normal.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\call_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_pressed.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\login_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\small_green_pressed.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\small_green_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\small_green_normal.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\small_green_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\big_red_normal.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\big_red_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\big_red_normal.png",
+        "source": "C:\\AndroidProjects\\sinch-rtc-sample-video\\res\\drawable-hdpi\\big_red_normal.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\ProFashVidCallSinch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\AndroidProjects\\ProFashVidCallSinch\\res\\drawable-hdpi\\icon.png"
+    }
+]

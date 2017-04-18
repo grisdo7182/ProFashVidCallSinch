@@ -1,0 +1,4 @@
+#Tue Apr 18 16:38:29 KST 2017
+base.0=C\:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

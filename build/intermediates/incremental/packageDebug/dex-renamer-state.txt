@@ -1,0 +1,7 @@
+#Tue Apr 18 16:38:33 KST 2017
+base.0=C\:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f078a995a4cdf8002a4a8bdea1236f14890a0b9f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0b01776cccbb1ce591914411d2cc7ddeae46317c\\classes.dex
+base.1=C\:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0b01776cccbb1ce591914411d2cc7ddeae46317c
+file.0=C\:\\AndroidProjects\\sinch-rtc-sample-video\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f078a995a4cdf8002a4a8bdea1236f14890a0b9f\\classes.dex
